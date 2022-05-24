@@ -12,8 +12,7 @@ We summarize the prediction, discrimination, and visualization results in summar
 
 Pytorch implementation of ExtraMAE can be found in ```./MAI/models.py```. All supporting files are stored in ```./MAI/modules/*```.
 
-```modules include: 
-```
+modules include: 
 
 - ```utils.py``` stores all utility functions 
 - ```generation.py``` generates masks and synthetic data
